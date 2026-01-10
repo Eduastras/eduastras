@@ -13,6 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=eduastras&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduastras&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div> <center>
-    <img src="img/coringa.gif" alt="coringa" width="300px" style="border-radius: 50%">
+<div align="center">
+    <img src="img/coringa.gif" alt="coringa" width="300">
 </div>
