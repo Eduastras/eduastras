@@ -1,8 +1,8 @@
 # 👨🏽‍💻 Sobre mim:
-**Me chamo Eduardo, tenho 22 anos sou nascido em Curitiba - PR. Sou apaixonado por desenvolver e programar.**
+**Me chamo Eduardo, tenho 22 anos sou nascido em Curitiba - PR. Sou apaixonado por ``desenvolver`` e ``programar``.**
 
 
-## 🌐 Redes Sociais:
+# 🌐 Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eduastras) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eduastras@outlook.com) 
 
 
@@ -16,5 +16,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduastras&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
-    <img src="img/coringa.gif" alt="coringa" width="300">
+    <img src="img/coringa.gif" alt="coringa" width="200">
 </div>
