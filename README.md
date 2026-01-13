@@ -1,5 +1,5 @@
 # 👨🏽‍💻 Sobre mim:
-**Me chamo Eduardo, tenho 22 anos nascido em Curitiba - PR. Sou apaixonado por ``desenvolver`` e ``programar``.**
+**Me chamo Eduardo, tenho 22 anos, sou natural de Curitiba – PR e sou apaixonado por ``desenvolvimento de software`` e ``programação.``**
 
 
 # 🌐 Sociais:
